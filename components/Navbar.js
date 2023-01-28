@@ -13,8 +13,7 @@ export default function Navbar() {
           className="m-6 cursor-pointer hover:text-white active:text-red-400"
           key={key}
         >
-          {" "}
-          {title}{" "}
+          {title}
         </h2>
       ))}
     </div>
